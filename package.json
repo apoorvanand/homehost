@@ -18,7 +18,7 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "underscore": "^1.9.1",
-    "yarn": "^1.7.0"
+    "yarn": "^1.17.3"
   },
   "devDependencies": {
     "concurrently": "^3.6.0",
